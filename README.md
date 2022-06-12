@@ -50,8 +50,8 @@ With the first option we can make a copy of the registry (Highly recommended):
 </div>
 </div>
                                                                                                                                                  
-We will only have to indicate the path where we want to save the copy. We will only have to indicate the name of the file we want to save. If no path is indicated the copy will be saved in the same place where the script is located.
-
+We will only have to indicate the path where we want to save the copy + The name of the file. If we want to save it in the same directory where we have the script, we will only have to indicate the name of the file that we want to save.
+                                                                                                                                                 
 With the second option the registry entry will be deleted, this way our environment will not be vulnerable. 
 
 <div align="center">
