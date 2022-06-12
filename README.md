@@ -12,7 +12,7 @@
 
 <div id='some-div' align="justify"> 
 This script is an UNOFFICIAL fix for vulnerability CVE-2022-30190 (Commonly known as Follina).
-
+<p></p>
 Microsoft has published that a remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker successfully exploiting this vulnerability can execute arbitrary code with the privileges of the calling application. The attacker can then install programs, view, change or delete data, or create new accounts in the context allowed by the user's rights.
 </div>
 
