@@ -1,5 +1,14 @@
 # Unofficial-Follina-Mitigation-Script
 
+<div id='some-div' align="center"> 
+<a href="https://twitter.com/jose_oteroo">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" title="Git"/>
+</a>
+<a href="https://www.linkedin.com/in/joseoteroo/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="Git"/>
+</a>
+</div> 
+
 This script is an UNOFFICIAL fix for vulnerability CVE-2022-30190 (Commonly known as Follina).
 
 Microsoft has published that a remote code execution vulnerability exists when MSDT is called using the URL protocol from a calling application such as Word. An attacker successfully exploiting this vulnerability can execute arbitrary code with the privileges of the calling application. The attacker can then install programs, view, change or delete data, or create new accounts in the context allowed by the user's rights.
